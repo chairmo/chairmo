@@ -10,7 +10,7 @@ Feel free to give me a shout out [@jidderejnr](https://twitter.com/jidderejnr) o
 </p>
 
 <details>
- <summary><strong>What I've learning/working on these days</strong></summary>
+ <summary><strong>What I've been working on these days</strong></summary>
  <ul>
    <li> Efficient software architecture </li>
    <li> Spring Batch and Microservice architecture </li>
