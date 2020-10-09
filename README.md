@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a full stack developer working to solve real world problem. I love coding and learning new technologies. 
-Feel free to give me a shout out [@jidderejnr](https://twitter.com/jidderejnr) or via my [email](mailto:young4moni@gmail.com) if you found something I've created interesting or if you'd have project you'll like me to work on. Wanna network? Hit me up!!!
+Feel free to give me a shout out on twitter [@jidderejnr](https://twitter.com/jidderejnr) or via my [email](mailto:young4moni@gmail.com) if you found something I've created interesting or if you'd have project you'll like me to work on. Wanna network? Hit me up!!!
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/jidderejnr/"><img height="30" src="https://github.com/chairmo/chairmo/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
