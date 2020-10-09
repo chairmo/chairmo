@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack developer working to solve real world problem. I love coding and learning new technologies. 
+I am a full stack developer loves creating and fixing things. I love coding and learning new technologies. 
 Feel free to give me a shout out on twitter [@jidderejnr](https://twitter.com/jidderejnr) or via my [email](mailto:young4moni@gmail.com) if you found something I've created interesting or if you'd have project you'll like me to work on. Wanna network? Hit me up!!!
 
 <p align='center'>
