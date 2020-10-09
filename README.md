@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a full stack developer loves creating and fixing things. I love coding and learning new technologies. 
-Feel free to give me a shout out on twitter [@jidderejnr](https://twitter.com/jidderejnr) or via my [email](mailto:young4moni@gmail.com) if you found something I've created interesting or if you'd have project you'll like me to work on. Wanna network? Hit me up!!!
+I am a full stack developer that loves creating and fixing things. I love coding and learning new technologies. 
+Feel free to give me a shout out on twitter [@jidderejnr](https://twitter.com/jidderejnr) or via my [email](mailto:young4moni@gmail.com) if you've found something I've created interesting or if you'd have a project you'll like me to work on. Just Wanna network? Hit me up!!!
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/jidderejnr/"><img height="30" src="https://github.com/chairmo/chairmo/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
